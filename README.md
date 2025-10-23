@@ -129,5 +129,5 @@ Leaderboard reference: **40–50** using hierarchical methods.
 
 ---
 
-## 📄 License
+## License
 This repository is intended for **educational use** as part of the University of Bologna NLP course.
