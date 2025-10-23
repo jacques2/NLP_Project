@@ -1,14 +1,13 @@
-# 🧠 NLP Assignment 1 — Sexism Detection in Tweets
+# NLP Assignment 1 — Sexism Detection in Tweets
 
 **Course:** Natural Language Processing (A.Y. 2025–2026)  
 **University:** University of Bologna  
-**Authors:** [Your Names Here]  
 **Prof:** Paolo Torroni  
 **TAs:** Federico Ruggeri, Eleonora Mancini  
 
 ---
 
-## 📌 Overview
+## Overview
 This project addresses the **EXIST 2023 Task 2** on sexism detection in tweets.  
 The goal is to classify each tweet according to the *intention of the author* into one of the following categories:
 
@@ -21,7 +20,7 @@ The task is formulated as a **multi-class classification problem** on noisy, inf
 
 ---
 
-## 🧩 Tasks Summary
+## Tasks Summary
 
 ### **Task 1 — Corpus**
 - Load the dataset (train, validation, test) from JSON files.  
@@ -108,13 +107,13 @@ Summarize your pipeline and results in a short report (max 2 pages) following th
 
 ---
 
-## 🧪 Expected Results
+## Expected Results
 Typical F1-score range: **30–40** (given task complexity)  
 Leaderboard reference: **40–50** using hierarchical methods.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - **Python**
 - **Pandas**, **NumPy**, **scikit-learn**
 - **TensorFlow / PyTorch**
@@ -123,7 +122,7 @@ Leaderboard reference: **40–50** using hierarchical methods.
 
 ---
 
-## 📚 References
+## References
 - [EXIST 2023 Shared Task](https://clef2023.clef-initiative.eu/index.php?page=Pages/labs.html#EXIST)
 - [Twitter-roBERTa-base-hate](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate)
 - [GloVe Embeddings](https://nlp.stanford.edu/projects/glove/)
